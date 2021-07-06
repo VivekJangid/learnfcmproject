@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802783221889",
+    "project_id": "learnfcm-3373f",
+    "storage_bucket": "learnfcm-3373f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802783221889:android:0059bff16a5e183d2b5580",
+        "android_client_info": {
+          "package_name": "com.learnfcm.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802783221889-3ah447024p7tvuthq9o7eh5tf5n4q447.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU7pnbuHXHf75Y_zcSkuMuHUzV2K9VVvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802783221889-3ah447024p7tvuthq9o7eh5tf5n4q447.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
